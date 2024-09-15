@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Contre-histoires féministes de la technique et du libre
+  target: "/contre-histoires-feministes-de-la-technique-et-du-libre/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -15,10 +19,6 @@ items:
   children: []
 - title: Organisations
   target: "/organisations/"
-  kind: page
-  children: []
-- title: Contre-histoires féministes de la technique et du libre
-  target: "/contre-histoires-feministes-de-la-technique-et-du-libre/"
   kind: page
   children: []
 
